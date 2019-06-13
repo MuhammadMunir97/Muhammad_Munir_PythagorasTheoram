@@ -3,6 +3,6 @@ public class PythagorasTheoram {
         Pythagorean tri = new Pythagorean();
         int width = 20;
         int length =30;
-        System.out.println(tri.calculateHypotenuse(20, 30));       
+        System.out.println(tri.calculateHypotenuse(width, length));       
     }   
 }
